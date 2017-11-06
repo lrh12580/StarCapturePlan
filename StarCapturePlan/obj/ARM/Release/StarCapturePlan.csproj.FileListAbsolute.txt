@@ -1,0 +1,229 @@
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\App.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\CollectionPage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\HelpPage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\Details.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\HomePage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\MainPage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\SettingPage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.xr.xml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.exe
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.pdb
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\resources.pri
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\AppxManifest.xml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.build.appxrecipe
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.g.i.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.g.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.g.i.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.g.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.g.i.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.g.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.g.i.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.g.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.g.i.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.g.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.g.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.g.i.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.g.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.xaml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.xaml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.xaml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.xaml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.xaml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.xaml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.xaml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.xbf
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.exe
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.pdb
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\priconfig.xml
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\layout.resfiles
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\resources.resfiles
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\pri.resfiles
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\qualifiers.txt
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\App.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\CollectionPage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\HelpPage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\Details.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\HomePage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\MainPage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\SettingPage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.xr.xml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.exe
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.pdb
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\resources.pri
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\AppxManifest.xml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.build.appxrecipe
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.g.i.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.g.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.g.i.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.g.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.g.i.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.g.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.g.i.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.g.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.g.i.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.g.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.g.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.g.i.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.g.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.xaml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.xaml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.xaml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.xaml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.xaml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.xaml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.xaml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.xbf
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.exe
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.pdb
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.csproj.GenerateResource.Cache
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\priconfig.xml
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\layout.resfiles
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\resources.resfiles
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\pri.resfiles
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\qualifiers.txt
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\YYY2\Documents\Visual Studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.exe
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.pdb
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\App.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\CollectionPage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\HelpPage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\Details.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\HomePage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\MainPage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\SettingPage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.xr.xml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.exe
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.pdb
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\resources.pri
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\AppxManifest.xml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.build.appxrecipe
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.g.i.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.g.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.g.i.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.g.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.g.i.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.g.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.g.i.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.g.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.g.i.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.g.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.g.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.g.i.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.g.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.xaml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.xaml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.xaml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.xaml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.xaml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.xaml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.xaml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.xbf
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\XamlSaveStateFile.xml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\priconfig.xml
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\layout.resfiles
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\resources.resfiles
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\pri.resfiles
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\qualifiers.txt
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\qualifiers.txt.intermediate
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\YYY\Desktop\StarCapturePlan (2)\StarCapturePlan\StarCapturePlan\obj\ARM\Release\ProjectArchitectures.txt
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\App.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\CollectionPage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\HelpPage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\Details.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\HomePage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\MainPage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\SettingPage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.xr.xml
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.exe
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.pdb
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\resources.pri
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\AppxManifest.xml
+G:\c# project\StarCapturePlan\StarCapturePlan\bin\ARM\Release\StarCapturePlan.build.appxrecipe
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.g.i.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.g.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.g.i.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.g.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.g.i.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.g.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.g.i.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.g.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.g.i.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.g.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.g.i.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.g.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.g.i.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.g.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\XamlTypeInfo.g.cs
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.xaml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.xaml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.xaml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.xaml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.xaml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.xaml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.xaml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\App.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\CollectionPage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HelpPage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\Details.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\HomePage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MainPage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\SettingPage.xbf
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\XamlSaveStateFile.xml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.exe
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\StarCapturePlan.pdb
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\priconfig.xml
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\priconfig.xml.intermediate
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\layout.resfiles
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\layout.resfiles.intermediate
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\resources.resfiles
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\resources.resfiles.intermediate
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\pri.resfiles
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\pri.resfiles.intermediate
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\qualifiers.txt
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\qualifiers.txt.intermediate
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\MultipleQualifiersPerDimensionFound.txt
+G:\c# project\StarCapturePlan\StarCapturePlan\obj\ARM\Release\ProjectArchitectures.txt

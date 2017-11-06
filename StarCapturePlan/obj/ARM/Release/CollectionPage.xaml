@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="StarCapturePlan.CollectionPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StarCapturePlan"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+<!--ItemTemplate="{StaticResource StandardTripleLineItemTemplate}"-->
+    <StackPanel>
+        <TextBlock Text="我的收藏" FontSize="65" Margin="20,10,0,0"/>
+        <ScrollViewer x:Name="ContentRoot" IsHorizontalRailEnabled="False" IsVerticalRailEnabled="True">
+            <ListView x:ConnectionId='1'  x:Name="listview"                         >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Image x:Name="listpicture" Source="{Binding ImagePath1}" Height="70" Width="70"/>
+                            <StackPanel Orientation="Vertical">
+                                <TextBlock x:Name="listtext" Text="{Binding name}" FontSize="30" Margin="20,0,0,0"/>
+                                <TextBlock Text="{Binding onesentence}" Margin="23,0,0,0" FontSize="15"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+    </StackPanel>
+
+
+
+    <Page.BottomAppBar>
+        <CommandBar Opacity="0.1">
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='2'
+                    x:Name="CollectionPage1"
+                    x:Uid="CollectionPage1"
+                                                
+                    Label="我的收藏"/>
+                <AppBarButton x:ConnectionId='3'
+                    x:Name="SettingsAppBarButton"
+                    x:Uid="SettingsAppBarButton"
+                    Label="设置" 
+                                                      />
+                <AppBarButton x:ConnectionId='4'
+                    x:Name="HelpAppBarButton"
+                    x:Uid="HelpAppBarButton"
+                                                  
+                    Label="帮助"/>
+            </CommandBar.SecondaryCommands>
+            <AppBarButton x:ConnectionId='5' Icon="Home"  x:Name="Home" Label="Home"                     />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

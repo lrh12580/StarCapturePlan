@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-2MQ155R</Machine>
+    <WindowsUser>YYY</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>6bae8305-e2dc-48eb-84ba-0d8a33a3c44f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\obj\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\StarCapturePlan.exe">
+      <PackagePath>StarCapturePlan.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d0.jpg">
+      <PackagePath>Assets\d0.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d1.jpg">
+      <PackagePath>Assets\d1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d10.jpg">
+      <PackagePath>Assets\d10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d11.jpg">
+      <PackagePath>Assets\d11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d12.jpg">
+      <PackagePath>Assets\d12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d14.jpg">
+      <PackagePath>Assets\d14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d16.jpg">
+      <PackagePath>Assets\d16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d17.jpg">
+      <PackagePath>Assets\d17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d18.jpg">
+      <PackagePath>Assets\d18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d2.jpg">
+      <PackagePath>Assets\d2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d3.jpg">
+      <PackagePath>Assets\d3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d4.jpg">
+      <PackagePath>Assets\d4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d5.jpg">
+      <PackagePath>Assets\d5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d6.jpg">
+      <PackagePath>Assets\d6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d8.jpg">
+      <PackagePath>Assets\d8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d7.jpg">
+      <PackagePath>Assets\d7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\headIcon.jpg">
+      <PackagePath>Assets\headIcon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d9.jpg">
+      <PackagePath>Assets\d9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d15.jpg">
+      <PackagePath>Assets\d15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story10.jpg">
+      <PackagePath>Assets\story10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story11.jpg">
+      <PackagePath>Assets\story11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story12.jpg">
+      <PackagePath>Assets\story12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story13.jpg">
+      <PackagePath>Assets\story13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story14.jpg">
+      <PackagePath>Assets\story14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story15.jpg">
+      <PackagePath>Assets\story15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story16.jpg">
+      <PackagePath>Assets\story16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story17.jpg">
+      <PackagePath>Assets\story17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story18.jpg">
+      <PackagePath>Assets\story18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story7.jpg">
+      <PackagePath>Assets\story7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story8.jpg">
+      <PackagePath>Assets\story8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\story9.jpg">
+      <PackagePath>Assets\story9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\d13.jpg">
+      <PackagePath>Assets\d13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\10.png">
+      <PackagePath>Assets\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\11.png">
+      <PackagePath>Assets\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\12.PNG">
+      <PackagePath>Assets\12.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\13.png">
+      <PackagePath>Assets\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\14.png">
+      <PackagePath>Assets\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\15.png">
+      <PackagePath>Assets\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\16.png">
+      <PackagePath>Assets\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\17.png">
+      <PackagePath>Assets\17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\18.png">
+      <PackagePath>Assets\18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\19.png">
+      <PackagePath>Assets\19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\Female.png">
+      <PackagePath>Assets\Female.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\20.png">
+      <PackagePath>Assets\20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\21.png">
+      <PackagePath>Assets\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\22.png">
+      <PackagePath>Assets\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\23.png">
+      <PackagePath>Assets\23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\24.png">
+      <PackagePath>Assets\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\25.png">
+      <PackagePath>Assets\25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\3.png">
+      <PackagePath>Assets\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\4.png">
+      <PackagePath>Assets\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\5.png">
+      <PackagePath>Assets\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\6.png">
+      <PackagePath>Assets\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\7.png">
+      <PackagePath>Assets\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\8.png">
+      <PackagePath>Assets\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\9.png">
+      <PackagePath>Assets\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\jianbianseduan.png">
+      <PackagePath>Assets\jianbianseduan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\maind0.png">
+      <PackagePath>Assets\maind0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\maind1.png">
+      <PackagePath>Assets\maind1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\maind2.png">
+      <PackagePath>Assets\maind2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\maind3.png">
+      <PackagePath>Assets\maind3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\maind4.png">
+      <PackagePath>Assets\maind4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\maind5.png">
+      <PackagePath>Assets\maind5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\maind6.png">
+      <PackagePath>Assets\maind6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\Male.png">
+      <PackagePath>Assets\Male.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\star.png">
+      <PackagePath>Assets\star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\CollectionPage.xbf">
+      <PackagePath>CollectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\HelpPage.xbf">
+      <PackagePath>HelpPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\Details.xbf">
+      <PackagePath>Details.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\SettingPage.xbf">
+      <PackagePath>SettingPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\StarCapturePlan.xr.xml">
+      <PackagePath>StarCapturePlan.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\YYY\Desktop\StarCapturePlan %282%29\StarCapturePlan\StarCapturePlan\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LENOVO-PC</Machine>
+    <WindowsUser>蕴盈</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>6bae8305-e2dc-48eb-84ba-0d8a33a3c44f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\StarCapturePlan.exe">
+      <PackagePath>StarCapturePlan.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowsphone开源\ImageTools 0.30\ImageTools 0.30\bin\Phone\ImageTools.dll">
+      <PackagePath>ImageTools.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowsphone开源\ImageTools 0.30\ImageTools 0.30\bin\Phone\ImageTools.Filtering.dll">
+      <PackagePath>ImageTools.Filtering.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowsphone开源\ImageTools 0.30\ImageTools 0.30\bin\Phone\ImageTools.IO.Bmp.dll">
+      <PackagePath>ImageTools.IO.Bmp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowsphone开源\ImageTools 0.30\ImageTools 0.30\bin\Phone\ImageTools.IO.Gif.dll">
+      <PackagePath>ImageTools.IO.Gif.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowsphone开源\ImageTools 0.30\ImageTools 0.30\bin\Phone\ImageTools.IO.Png.dll">
+      <PackagePath>ImageTools.IO.Png.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowsphone开源\ImageTools 0.30\ImageTools 0.30\bin\Phone\ImageTools.Utils.dll">
+      <PackagePath>ImageTools.Utils.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowsphone开源\ImageTools 0.30\ImageTools 0.30\bin\Phone\PhoneCodeContractsAssemblies.dll">
+      <PackagePath>PhoneCodeContractsAssemblies.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\windowsphone开源\ImageTools 0.30\ImageTools 0.30\bin\Phone\ICSharpCode.SharpZLib.Phone.dll">
+      <PackagePath>ICSharpCode.SharpZLib.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\10.png">
+      <PackagePath>Assets\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\11.png">
+      <PackagePath>Assets\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\12.PNG">
+      <PackagePath>Assets\12.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\13.png">
+      <PackagePath>Assets\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\14.png">
+      <PackagePath>Assets\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\15.png">
+      <PackagePath>Assets\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\16.png">
+      <PackagePath>Assets\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\17.png">
+      <PackagePath>Assets\17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\18.png">
+      <PackagePath>Assets\18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\19.png">
+      <PackagePath>Assets\19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\Female.png">
+      <PackagePath>Assets\Female.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\20.png">
+      <PackagePath>Assets\20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\21.png">
+      <PackagePath>Assets\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\22.png">
+      <PackagePath>Assets\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\23.png">
+      <PackagePath>Assets\23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\24.png">
+      <PackagePath>Assets\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\25.png">
+      <PackagePath>Assets\25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\3.png">
+      <PackagePath>Assets\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\4.png">
+      <PackagePath>Assets\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\5.png">
+      <PackagePath>Assets\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\6.png">
+      <PackagePath>Assets\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\7.png">
+      <PackagePath>Assets\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\8.png">
+      <PackagePath>Assets\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\9.png">
+      <PackagePath>Assets\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\jianbianseduan.png">
+      <PackagePath>Assets\jianbianseduan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\Male.png">
+      <PackagePath>Assets\Male.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\star.png">
+      <PackagePath>Assets\star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\star2.png">
+      <PackagePath>Assets\star2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\Catch me if you can.mp3">
+      <PackagePath>Assets\Catch me if you can.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\headIcon.jpg">
+      <PackagePath>Assets\headIcon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\Assets\Scorpio.jpg">
+      <PackagePath>Assets\Scorpio.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\HelpPage.xbf">
+      <PackagePath>HelpPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\Details.xbf">
+      <PackagePath>Details.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\SettingPage.xbf">
+      <PackagePath>SettingPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\StarCapturePlan.xr.xml">
+      <PackagePath>StarCapturePlan.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

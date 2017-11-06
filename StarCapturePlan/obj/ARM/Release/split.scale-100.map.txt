@@ -1,0 +1,10 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\PackageLayout\Assets\Square71x71Logo.scale-100.png"			"Assets\Square71x71Logo.scale-100.png"
+"C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-100.png"			"Assets\SplashScreen.scale-100.png"
+"C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\PackageLayout\Assets\SmallLogo.scale-100.png"			"Assets\SmallLogo.scale-100.png"
+"C:\Users\蕴盈\documents\visual studio 2013\Projects\StarCapturePlan\StarCapturePlan\obj\ARM\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

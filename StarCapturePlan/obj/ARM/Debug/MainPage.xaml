@@ -1,0 +1,120 @@
+﻿<Page
+    x:Class="StarCapturePlan.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StarCapturePlan"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    xmlns:valueconverter="using:StarCapturePlan.Converters"
+    DataContext="{Binding StarViewModel,RelativeSource={RelativeSource Self}}"
+    >
+    <!--其它页面到该页面-->
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <!--默认的旋转门过渡特效-->
+                <!--<CommonNavigationTransitionInfo/>-->
+                <!--页面有种放大缩小的过渡特效-->
+                <!--<SlideNavigationTransitionInfo/>-->
+                <!--页面上下滑动过渡特效-->
+                <ContinuumNavigationTransitionInfo/>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Grid
+        x:Name="BackGroundGrid"
+            Margin="0,10,0,0">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <Grid.Resources>
+            <Storyboard x:Name="storyboard">
+                <DoubleAnimation Storyboard.TargetName="textblock1"
+                                     Storyboard.TargetProperty="Opacity"
+                                     From="0"
+                                     To="1"
+                                     Duration="0:0:2"
+                                 AutoReverse="True"
+                                 RepeatBehavior="Forever"/>
+            </Storyboard>
+            <Storyboard x:Name="storyboard1">
+                    <DoubleAnimation Storyboard.TargetName="starImage"
+                                     Storyboard.TargetProperty="Opacity"
+                                     From="0"
+                                     To="1"
+                                     Duration="0:0:2"/>
+            </Storyboard>
+        </Grid.Resources>
+
+        <StackPanel Grid.Row="1">
+            <Slider x:ConnectionId='2' x:Name="slider" Margin="30,30,30,30" RenderTransformOrigin="0.5,0.5" Height="73" LargeChange="1"                                    Maximum="99">
+                <Slider.Foreground>
+                    <ImageBrush Stretch="Fill"/>
+                </Slider.Foreground>
+                <Slider.Background>
+                    <ImageBrush ImageSource="Assets/jianbianseduan.png"/>
+                </Slider.Background>
+            </Slider>
+        </StackPanel>
+
+        <Grid Grid.Row="0" x:Name="BackGroundPanel" 
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Stretch">
+<!--
+            <StackPanel Canvas.ZIndex="6" >
+                <TextBlock x:Name="xianshia"  Width="200" Height="100" FontSize="10"></TextBlock>
+                <TextBlock x:Name="xianshimm"  Width="200" Height="100" FontSize="10"></TextBlock>
+                <TextBlock x:Name="xianshiweidu"  Width="200" Height="100" FontSize="10"></TextBlock>
+                <TextBlock x:Name="planetnumber"  Width="200" Height="100" FontSize="10"></TextBlock>
+                <TextBlock x:Name="x"  Width="100" Height="50" FontSize="20"></TextBlock>
+                <TextBlock x:Name="y"  Width="100" Height="50" FontSize="20"></TextBlock>
+                <TextBlock x:Name="z"  Width="100" Height="50" FontSize="20"></TextBlock>
+                <TextBlock x:Name="x1"  Width="100" Height="50" FontSize="20"></TextBlock>
+                <TextBlock x:Name="y1"  Width="100" Height="50" FontSize="20"></TextBlock>
+                <TextBlock x:Name="z1"  Width="100" Height="50" FontSize="20"></TextBlock>
+             </StackPanel> 
+-->
+            <!---->  
+                      
+            <Canvas x:ConnectionId='1' x:Name="Canvas"  Opacity="1" Canvas.ZIndex="5"                        VerticalAlignment="Stretch" HorizontalAlignment="Stretch" >
+                <TextBlock x:Name="textblock1" FontSize="25" Margin="70, 430, 0, 0" />
+                <Image x:Name="starImage" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock x:Name="textblock" FontSize="50" Margin="30,20,10,10"/>
+            </Canvas>
+        </Grid>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='3'
+                    x:Name="HomeButton"
+                    x:Uid="HomeButton"
+                                            
+                    Label="我的主页"/>
+                <AppBarButton x:ConnectionId='4'
+                    x:Name="SettingsAppBarButton"
+                    x:Uid="SettingsAppBarButton"
+                                                      
+                    Label="设置"/>
+                <AppBarButton x:ConnectionId='5'
+                    x:Name="HelpAppBarButton"
+                    x:Uid="HelpAppBarButton"
+                                                  
+                    Label="帮助"/>
+
+
+            </CommandBar.SecondaryCommands>
+            <AppBarButton x:ConnectionId='6' Icon="Accept" x:Name="knock" Label="锁定"                    />
+            <AppBarButton x:ConnectionId='7' Icon="Clear" x:Name="FuyuangButton" Label="复原"                              />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+</Page>
+

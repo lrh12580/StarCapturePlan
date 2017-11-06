@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="StarCapturePlan.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StarCapturePlan"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- 标题面板 -->
+        <Grid Grid.Row="0" Margin="10,0,0,0">
+            <TextBlock Text="  我的主页" 
+                       FontSize="40"
+                       Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock x:Name="ID" Text="我的用户名" FontSize="30" Margin="219,103,10,139"/>
+            <Image Source="assets/headIcon.jpg" Margin="0,91,195,34" Height="175"/>
+            <Image x:Name="Male" Source="/Assets/Male.png" Margin="255,149,103,0" Height="26" VerticalAlignment="Top"/>
+            <Image x:Name="Female" Source="/Assets/Female.png" Margin="292,149,61,0" Height="30" VerticalAlignment="Top"/>
+            <TextBlock x:Name="Introduction" Text="一句话介绍一下自己吧" FontSize="16" Margin="219,201,-35,54"/>
+        </Grid>
+
+        <!--TODO: 应将内容放入以下网格-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="0,10,0,0">
+            <ToggleButton x:ConnectionId='1' x:Name="Collection" Content="我的收藏" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Stretch"                                Width="204" Margin="0,117,0,0">
+                <ToggleButton.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/9.png"/>
+                </ToggleButton.Background>
+            </ToggleButton>
+            <ToggleButton x:ConnectionId='2' x:Name="Fiends" Content="我的好友圈"  FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Stretch"                            Width="196" Margin="0,117,0,0">
+                <ToggleButton.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/14.png"/>
+                </ToggleButton.Background>
+            </ToggleButton>
+            <ToggleButton Content="ToggleButton" HorizontalAlignment="Left" VerticalAlignment="Top" Width="380" Margin="10,0,0,0" Height="114">
+                <ToggleButton.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="Assets/jianbianseduan.png"/>
+                </ToggleButton.Background>
+            </ToggleButton>
+            <!--<StackPanel x:Name="Friends"-->
+            <!--<TextBlock TextWrapping="Wrap" FontSize="20" xml:space="preserve" >
+        		<Run Text="        天蝎座（Scorpio）,是十二星座之黄道第八宫，位于天秤座之东，射手座之西。&#x0a;       星座属性：水象&#x0a;       守护星：   冥王星&#x0a;       守护神：   哈迪斯&#x0a;       阴阳性：   阴性 &#x0a;       符   号：   蝎尾 "/>
+            </TextBlock>-->
+        </Grid>
+
+    </Grid>
+</Page>
+
